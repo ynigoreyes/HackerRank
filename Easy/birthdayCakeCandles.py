@@ -4,7 +4,6 @@
 # 3/5/2018
 # Birthday Cake Candles
 
-import sys
 
 def birthdayCakeCandles(n, ar):
 
