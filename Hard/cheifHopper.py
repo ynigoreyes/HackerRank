@@ -1,3 +1,9 @@
+# Ynigo Reyes
+# Computer Science - TTU
+# Class  of 2021
+# 3/7/2018
+# Chief Hopper
+
 from math import ceil
 
 def chiefHopper(arr):
