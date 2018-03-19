@@ -1,6 +1,6 @@
 # Ynigo Reyes
 # Computer Science - TTU
-# Class  of 2021
+# Class of 2021
 # 3/6/2018
 # Simple Array Sum
 
