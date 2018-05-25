@@ -1,6 +1,4 @@
 class Solution:
-  # Completed in O(n) time
-  # LeetCode 771. Jewels And Stones
   def numJewelsInStones(self, J, S):
     """
     :type J: str
