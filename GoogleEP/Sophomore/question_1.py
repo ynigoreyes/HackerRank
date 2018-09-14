@@ -22,7 +22,7 @@ def main(LinkedList):
             temp = temp.next
             prev = prev.next
 
-        if !temp: # If we went through the whole list
+        if not temp: # If we went through the whole list
             return LinkedList
 
         # Make both pointers point to the same thing. AKA delete
