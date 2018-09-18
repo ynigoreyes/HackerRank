@@ -1,6 +1,5 @@
 import sys
 
-
 def kangaroo(x1, v1, x2, v2):
   totalDistance = 0
   relativeVelocity = 0
